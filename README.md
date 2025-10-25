@@ -68,12 +68,12 @@ Here's some code you can use on the command line:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YilingSuun/Hole-in-the-Ground-Source-Code.git
+git clone https://github.com/YilingSuun/Letter-Rain-Source-Code-.git
 ```
 
 2. Enter your directory
 ```bash
-cd Hole-in-the-Ground-Source-Code
+cd YilingSuun/Letter-Rain-Source-Code-
 ```
 
 3. install dependencies
